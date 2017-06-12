@@ -1,0 +1,29 @@
+{
+	"always_show_minimap_viewport": false,
+	"binary_file_patterns":
+	[
+		".svn/",
+		".git/",
+		"node_modules/",
+		"tmp/",
+		"bower_components/",
+		"dev_release/"
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"folder_exclude_patterns":
+	[
+		"node_modules"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		""
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Dark-Material.sublime-theme",
+	"vintage_start_in_command_mode": true
+}

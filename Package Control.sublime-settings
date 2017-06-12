@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Babel",
+		"Better CoffeeScript",
+		"Ecmascript Syntax",
+		"EditorConfig",
+		"Emmet",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Sass",
+		"Theme - Dark Material",
+		"TypeScript"
+	]
+}
