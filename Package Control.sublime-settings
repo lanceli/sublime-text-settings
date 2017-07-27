@@ -8,6 +8,7 @@
 		"1337 Color Scheme",
 		"Babel",
 		"Better CoffeeScript",
+		"CSS Extended Completions",
 		"Ecmascript Syntax",
 		"EditorConfig",
 		"Emmet",
@@ -16,6 +17,7 @@
 		"Package Control",
 		"Sass",
 		"Theme - Dark Material",
-		"TypeScript"
+		"TypeScript",
+		"Vue Syntax Highlight"
 	]
 }

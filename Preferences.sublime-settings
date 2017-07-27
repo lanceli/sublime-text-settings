@@ -24,6 +24,10 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"overlay_scroll_bars": "enabled",
+	"tabSize": 2,
+	"tab_size": 2,
 	"theme": "Dark-Material.sublime-theme",
+	"translateTabsToSpaces": true,
+	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true
 }
