@@ -7,7 +7,7 @@
 		"node_modules/",
 		"tmp/",
 		"bower_components/",
-		"dev_release/"
+		"dev-release/"
 	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
